@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+npm-debug.log
+static_dist
+webpack-stats.json
+webpack-stats-prod.json
+.idea
+*.pyc
+
