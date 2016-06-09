@@ -1,23 +1,9 @@
-## Redux / React Learning Project
+## React / Redux / Django Boilerplate
 
-This is a project I am using while learning Redux / React. The idea is a form that allows the user to
-add multiple fields and their definitions. This is very much a learning tool, and I'm doing my best to 
-make it understandable to others and be a tool for learning.
-
-Thanks to Stephen Grider for his Udemy course, <https://www.udemy.com/react-redux/learn/v4/> which this
-project draws from, greatly.
-
-#### Notes
-
-The **Application State** window in the application displays the actual state from all reducers live 
-as it happens. The console also reports every action that happens.
+This is a boilerplate project for creating apps that run in Django but use React and Redux. It
+is very much a learn-as-I-go project, but feel free to use it.
 
 #### Django support for hot reloading
-
-As I worked on this project, I realized I was jumping through coding hoops to mimic a REST API, rather than
-just having a sample one. To best mimic the project I'm eventually going to add this to, I've turned this project
-into a hybrid React/Redux/Django application. It supports hot loading from Django (though an additional node
-server must be run).
 
 Thanks go to Owais Lone, for giving me something to base much of this off of: <http://owaislone.org/blog/webpack-plus-reactjs-and-django/>
 
