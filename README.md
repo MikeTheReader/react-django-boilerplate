@@ -37,7 +37,6 @@ npm install
 To start Django, open a terminal:
 
 ```
-cd project
 python manage.py runserver
 ```
 
